@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+
+.contenu {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+.page {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
